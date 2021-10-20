@@ -1,7 +1,7 @@
-### Hi there, I'm Vineet 👋
+### Hi there, I'm Zuoxianglei 👋
 
 
-## I'm an Engineer, a Data Scientist, and Life Long Learner!
+## I'm an Engineer, Life Long Learner!
 - 🔭 I am currently working on a blog project.
 - 🌱 I’m currently Learning everything.
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn a lot.
