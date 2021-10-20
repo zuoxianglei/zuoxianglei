@@ -13,14 +13,6 @@
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=jha-vineet69&color=7957d5)
 
-[<img align="left" alt="jha-vineet69 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
-
-[<img align="left" alt="jha-vineet69 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][gmail]
-
-[<img align="left" alt="jha-vineet69 | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg"/>][leetcode]
-
-<br>
-
 ---
 
 ### 👨‍💻 Languages and Tools:
@@ -41,17 +33,12 @@
 
 ### 📘 Latest Blog Posts:
 - [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
-- [How to Lie with Statistics](https://spotle.ai/feeddetails/How-To-Lie-With-Statistics/7452)
-- [Monty Python's Flying Circus](https://spotle.ai/feeddetails/Monty-Python-s-Flying-Circus/4178)
-- [Types of Clustering Techniques](https://spotle.ai/feeddetails/TYPES-OF-CLUSTERING-TECHNIQUES/3390)
 
 ---
 
 ### 🏆 Github Stats:
 
 <img alt="zuoxianglei's Github Stats" src="https://github-readme-stats.jha-vineet69.vercel.app/api?username=zuoxianglei&hide=stars&show_icons=true&hide_border=true&theme=buefy" width="500"/>
-
-<img alt="zuoxianglei's Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jha-vineet69&hide=smalltalk&theme=buefy&layout=compact&hide_border=true" width="500"/>
 
 [gmail]: mailto:zuoxianglei666@gmail.com
 [leetcode]: https://leetcode.com/vineet_jha/
