@@ -2,26 +2,16 @@
 
 
 ## I'm an Engineer, a Data Scientist, and Life Long Learner!
-- 🔭 I’m currently working on a Time Series Forecasting Project!
+- 🔭 I am currently working on a blog project.
 - 🌱 I’m currently Learning everything.
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
-- ⚡ Fun fact: I love to bingewatch movies and play sports.
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learn a lot.
+- ⚡ Have a good attitude of optimism and self-motivated.
 
 ---
 
 
 ### 🤝 Connect with me:
 ![](https://komarev.com/ghpvc/?username=jha-vineet69&color=7957d5)
-
----
-
-### 👨‍💻 Languages and Tools:
-
-
----
-
-### 📘 Latest Blog Posts:
-- [The Visual Ritual](https://spotle.ai/feeddetails/THE-VISUAL-RITUAL-/7563)
 
 ---
 
