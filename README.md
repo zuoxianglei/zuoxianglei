@@ -4,7 +4,7 @@
 - 👨‍💻 经历：暂无
 - 🌱 干货：公众号『 NULL』
 - 💬 微信：0
-- 👬 QQ 千人编程交流群：null <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和鱼皮一起学编程的朋友们" title="和鱼皮一起学编程的朋友们"></a>
+- 👬 QQ 千人编程交流群：null <a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=Aevn1r1U-DJ7ajBLBjed7VmLV2ZW06hx&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="和我一起学编程吧" title="和我一起学编程吧"></a>
 
 ## 今年汇总 ✨
 
